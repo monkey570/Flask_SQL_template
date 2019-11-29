@@ -135,10 +135,8 @@ tasks.xml
 *.tiff
 *.xls
 *.xlsx
-# *.png
+ *.png
 *.avi
 *.mpg
 *.rar
-
-
-./connection_config.txt
+connection_config.txt
